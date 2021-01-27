@@ -13,7 +13,7 @@ Documentation for Amazon Lex Runtime Service
 http://docs.aws.amazon.com/lex/latest/dg/API_Operations_Amazon_Lex_Runtime_Service.html
 
 AWS Java SDK for AWS Lex in Maven
-https://maven-repository.com/artifact/com.amazonaws/aws-java-sdk-lex
+https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-lex
 
 Set Up the AWS Command Line Interface
 http://docs.aws.amazon.com/lex/latest/dg/gs-set-up-cli.html
